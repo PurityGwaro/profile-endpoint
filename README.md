@@ -33,4 +33,4 @@ list of dependencies :
 
 Start app with `node index.js`
 ### Hosted link
-Hosted at:
+Hosted at: https://profile-endpoint-production-df94.up.railway.app/me
